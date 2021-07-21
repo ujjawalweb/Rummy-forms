@@ -176,8 +176,8 @@ height: 100vh;}
         .buy-btn {
             text-transform: uppercase;
             color: #fff;
-            position: relative;
-            top: 24%;
+            position: relative !important;
+            top: 24% !important;
             left: 50%;}
 
 		.chk{    position: relative!important;
