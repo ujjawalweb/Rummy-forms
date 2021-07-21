@@ -166,13 +166,19 @@ height: 100vh;}
 			top: 15px;
 		}
 		
-		.wdth {
+			.wdth {
 			width: 350px !important;
 		background: linear-gradient(to top, rgb(20, 31, 50) 100%, rgb(21, 36, 58) 28%, rgb(23, 39, 64) 0%) rgb(23, 39, 64);
-			height: 270px;
+        height: 297px;
 			border-radius: 10px 10px 0px 0px;
 		}
 
+        .buy-btn {
+            text-transform: uppercase;
+            color: #fff;
+            position: relative;
+            top: 24%;
+            left: 50%;}
 
 		.chk{    position: relative!important;
 			top: -17px!important;
